@@ -38,3 +38,4 @@ out/
 
 ### project related ###
 /frontend
+.DS_store
